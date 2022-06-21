@@ -19,9 +19,6 @@
 		"url": "https://github.com/SergeiSeledkov/ahj_hw11_server/issues"
 	},
 	"homepage": "https://github.com/SergeiSeledkov/ahj_hw11_server#readme",
-	"engines": {
-		"node": "11.x"
-	},
 	"dependencies": {
 		"@koa/cors": "^3.3.0",
 		"forever": "^4.0.3",
