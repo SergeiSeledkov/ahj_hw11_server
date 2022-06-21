@@ -14,7 +14,7 @@ app.use(koaBody({
 	text: true,
 	urlencoded: true,
 	json: true,
-	multipart: true
+	multipart: true,
 }));
 
 app.use(cors());
